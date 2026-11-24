@@ -1,0 +1,2 @@
+# js-smasher
+learning javascript
