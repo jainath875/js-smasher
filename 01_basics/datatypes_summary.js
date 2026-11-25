@@ -20,3 +20,10 @@ console.log(typeof heros);
 console.log(typeof myObj);
 console.log(typeof myFunction);
 
+
+
+// Stack (Primitive), Heap (Non Primitive)
+
+
+
+
